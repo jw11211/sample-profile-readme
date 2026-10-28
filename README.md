@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm John W
 ##  About Me
-I play games, workout, and like spending free time reading nad hanging out with friends.
+I play games, workout, and like spending free time reading and hanging out with friends.
 ## ⚒️ Skills
 ![Excel](https://excel.cloud.microsoft/en-us/)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
